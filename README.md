@@ -57,7 +57,7 @@ The project currently uses MySQL connection settings in `database.py`:
 
 ```py
 MYSQL_USER = "root"
-MYSQL_PASSWORD = "4282"
+MYSQL_PASSWORD = "****"
 MYSQL_HOST = "localhost"
 MYSQL_PORT = 3306
 MYSQL_DB = "routine_tracker"
